@@ -309,7 +309,7 @@ for n in range(1,Ks):
     std_acc[n-1]=np.std(yhat==y_test)/np.sqrt(yhat.shape[0])
 
 mean_acc
-
+print("mean_acc=",mean_acc)
 
 # #### Plot the model accuracy for a different number of neighbors.
 # 
