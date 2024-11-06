@@ -107,7 +107,7 @@ data = pd.read_csv("https://cf-courses-data.s3.us.cloud-object-storage.appdomain
 
 
 data.head()
-
+print(f"Header looks like this:\n\n{data.head()}")
 
 # Now lets learn about the size of our data, there are 506 rows and 13 columns
 # 
@@ -162,13 +162,13 @@ Y = data["MEDV"]
 
 
 X.head()
-
+print(f"X Header looks like this:\n\n{X.head()}")
 
 # In[11]:
 
 
 Y.head()
-
+print(f"Y Header looks like this:\n\n{Y.head()}")
 
 # Finally lets split our data into a training and testing dataset using `train_test_split` from `sklearn.model_selection`
 # 
