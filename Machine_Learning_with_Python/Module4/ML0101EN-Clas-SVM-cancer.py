@@ -1,6 +1,6 @@
 #jupyter nbconvert --to script ML0101EN-Clas-SVM-cancer.ipynb
 
-# #!/usr/bin/env python
+#!/usr/bin/env python
 # coding: utf-8
 
 # <p style="text-align:center">
