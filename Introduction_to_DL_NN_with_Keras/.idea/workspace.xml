@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a2817eb-3abd-485d-843c-ed54e01af08b" name="Changes" comment="" />
+    <list default="true" id="4a2817eb-3abd-485d-843c-ed54e01af08b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Introduction_to_DL_&amp;_NN_with_Keras/.idea/Introduction_to_Deep_Learning_&amp;_Neural_Networks_with_Keras.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction_to_DL_&amp;_NN_with_Keras/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction_to_DL_&amp;_NN_with_Keras/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction_to_DL_&amp;_NN_with_Keras/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction_to_DL_&amp;_NN_with_Keras/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction_to_DL_&amp;_NN_with_Keras/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction_to_DL_&amp;_NN_with_Keras/Module1/DL0101EN-1-1-Forward-Propgation-py-v1 0__1__.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction_to_DL_&amp;_NN_with_Keras/Module1/DL0101EN-1-1-Forward-Propgation-py-v1 0__1__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction_to_DL_&amp;_NN_with_Keras/Module3/DL0101EN-3-1-Regression-with-Keras-py-v1 0__2_.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction_to_DL_&amp;_NN_with_Keras/Module3/DL0101EN-3-1-Regression-with-Keras-py-v1 0__2_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction_to_DL_&amp;_NN_with_Keras/Module3/DL0101EN-3-2-Classification-with-Keras-py-v1 0__1_.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction_to_DL_&amp;_NN_with_Keras/Module3/DL0101EN-3-2-Classification-with-Keras-py-v1 0__1_.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +41,7 @@
     "Python.DL0101EN-3-1-Regression-with-Keras-py-v1 0__2_.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/alv/AppData/Local/Programs/Python/Python310",
+    "last_opened_file_path": "C:/Users/alv/PycharmProjects/IBM_ AI_ Engineering_Certificate/Introduction_to_DL_NN_with_Keras",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
