@@ -1,28 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a2817eb-3abd-485d-843c-ed54e01af08b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Introduction_to_Deep_Learning_&amp;_Neural_Networks_with_Keras.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_to_Deep_Learning_&amp;_Neural_Networks_with_Keras/.idea/Introduction_to_Deep_Learning_&amp;_Neural_Networks_with_Keras.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_to_Deep_Learning_&amp;_Neural_Networks_with_Keras/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_to_Deep_Learning_&amp;_Neural_Networks_with_Keras/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_to_Deep_Learning_&amp;_Neural_Networks_with_Keras/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction_to_Deep_Learning_&amp;_Neural_Networks_with_Keras/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module1/DL0101EN-1-1-Forward-Propgation-py-v1 0__1__.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module1/DL0101EN-1-1-Forward-Propgation-py-v1 0__1__.py" afterDir="false" />
-    </list>
+    <list default="true" id="4a2817eb-3abd-485d-843c-ed54e01af08b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
@@ -36,8 +25,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.DL0101EN-1-1-Forward-Propgation-py-v1 0__1__.executor": "Run",
+    "Python.DL0101EN-3-1-Regression-with-Keras-py-v1 0__2_.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/alv/AppData/Local/Programs/Python/Python310",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
