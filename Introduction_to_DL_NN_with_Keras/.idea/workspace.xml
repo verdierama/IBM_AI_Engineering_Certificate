@@ -5,13 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="997f74dc-4a3f-45ca-8f39-8204c43f07ed" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../.idea/IBM_AI_Engineering_Certificate.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/IBM_AI_Engineering_Certificate.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Introduction_to_Deep_Learning_&amp;_Neural_Networks_with_Keras.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module3/DL0101EN-3-2-Classification-with-Keras-py-v1 0__1_.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module3/DL0101EN-3-2-Classification-with-Keras-py-v1 0__1_.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction_to_DL_NN_with_Keras_bad/.idea/Introduction_to_DL_NN_with_Keras.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction_to_DL_NN_with_Keras_bad/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction_to_DL_NN_with_Keras_bad/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction_to_DL_NN_with_Keras_bad/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction_to_DL_NN_with_Keras_bad/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction_to_DL_NN_with_Keras_bad/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction_to_DL_NN_with_Keras_bad/Module1/DL0101EN-1-1-Forward-Propgation-py-v1 0__1__.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction_to_DL_NN_with_Keras_bad/Module1/DL0101EN-1-1-Forward-Propgation-py-v1 0__1__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction_to_DL_NN_with_Keras_bad/Module3/DL0101EN-3-1-Regression-with-Keras-py-v1 0__2_.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction_to_DL_NN_with_Keras_bad/Module3/DL0101EN-3-1-Regression-with-Keras-py-v1 0__2_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction_to_DL_NN_with_Keras_bad/Module3/DL0101EN-3-2-Classification-with-Keras-py-v1 0__1_.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Introduction_to_DL_NN_with_Keras_bad/Module3/DL0101EN-3-2-Classification-with-Keras-py-v1 0__1_.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,9 +29,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2pDFEPI8pSWMiAsZLaYbxRqi1d9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,9 +40,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.DL0101EN-1-1-Forward-Propgation-py-v1 0__1__.executor": "Run",
+    "Python.DL0101EN-3-1-Regression-with-Keras-py-v1 0__2_.executor": "Run",
+    "Python.DL0101EN-3-2-Classification-with-Keras-py-v1 0__1_.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "configurable.group.project"
+    "last_opened_file_path": "C:/Users/alv/PycharmProjects/IBM_AI_Engineering_Certificate/Machine_Learning_with_Python",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="SharedIndexes">

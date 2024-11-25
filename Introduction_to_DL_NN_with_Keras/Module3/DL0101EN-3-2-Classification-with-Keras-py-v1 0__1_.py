@@ -104,7 +104,7 @@ from keras.datasets import mnist
 
 
 X_train.shape
-
+print(X_train.shape)
 
 # The first number in the output tuple is the number of images, and the other two numbers are the size of the images in datset. So, each image is 28 pixels by 28 pixels.
 # 
@@ -114,8 +114,8 @@ X_train.shape
 
 # In[6]:
 
-
 plt.imshow(X_train[0])
+plt.show()
 
 
 # With conventional neural networks, we cannot feed in the image as input as is. So we need to flatten the images into one-dimensional vectors, each of size 1 x (28 x 28) = 1 x 784.
