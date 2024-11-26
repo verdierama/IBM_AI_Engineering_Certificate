@@ -23,20 +23,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.DL0101EN-1-1-Forward-Propgation-py-v1 0__1__.executor": "Run",
-    "Python.DL0101EN-3-1-Regression-with-Keras-py-v1 0__2_.executor": "Run",
-    "Python.DL0101EN-3-2-Classification-with-Keras-py-v1 0__1_.executor": "Run",
-    "Python.DL0101EN-4-1-Convolutional-Neural-Networks-with-Keras-py-v1 0__1_.executor": "Run",
-    "Python.Keras assessment A.executor": "Run",
-    "Python.Keras assessment B.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/alv/PycharmProjects/IBM_AI_Engineering_Certificate/Machine_Learning_with_Python",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.DL0101EN-1-1-Forward-Propgation-py-v1 0__1__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DL0101EN-3-1-Regression-with-Keras-py-v1 0__2_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DL0101EN-3-2-Classification-with-Keras-py-v1 0__1_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DL0101EN-4-1-Convolutional-Neural-Networks-with-Keras-py-v1 0__1_.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Keras assessment A.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Keras assessment B.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alv/PycharmProjects/IBM_AI_Engineering_Certificate/Machine_Learning_with_Python&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
