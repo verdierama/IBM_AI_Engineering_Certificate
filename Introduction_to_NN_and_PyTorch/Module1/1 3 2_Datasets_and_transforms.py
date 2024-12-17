@@ -1,4 +1,4 @@
-# jupyter nbconvert --to "1 3 2_Datasets_and_transforms.ipynb"
+# jupyter nbconvert --to script "1 3 2_Datasets_and_transforms.ipynb"
 # #!/usr/bin/env python
 # coding: utf-8
 
