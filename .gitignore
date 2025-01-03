@@ -244,3 +244,7 @@ DL_with_PyTorch/Module2/data/MNIST/raw/t10k-images-idx3-ubyte
 DL_with_PyTorch/Module2/data/MNIST/raw/t10k-labels-idx1-ubyte
 DL_with_PyTorch/Module2/data/MNIST/raw/train-images-idx3-ubyte
 DL_with_PyTorch/Module2/data/MNIST/raw/train-labels-idx1-ubyte
+DL_with_PyTorch/Module3/data/MNIST/raw/t10k-images-idx3-ubyte
+DL_with_PyTorch/Module3/data/MNIST/raw/t10k-labels-idx1-ubyte
+DL_with_PyTorch/Module3/data/MNIST/raw/train-images-idx3-ubyte
+DL_with_PyTorch/Module3/data/MNIST/raw/train-labels-idx1-ubyte
