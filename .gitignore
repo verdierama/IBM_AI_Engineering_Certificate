@@ -239,3 +239,8 @@ Introduction_to_NN_and_PyTorch/Module1/img/fashion96.png
 Introduction_to_NN_and_PyTorch/Module1/img/fashion97.png
 Introduction_to_NN_and_PyTorch/Module1/img/fashion98.png
 Introduction_to_NN_and_PyTorch/Module1/img/fashion99.png
+*.gz
+DL_with_PyTorch/Module2/data/MNIST/raw/t10k-images-idx3-ubyte
+DL_with_PyTorch/Module2/data/MNIST/raw/t10k-labels-idx1-ubyte
+DL_with_PyTorch/Module2/data/MNIST/raw/train-images-idx3-ubyte
+DL_with_PyTorch/Module2/data/MNIST/raw/train-labels-idx1-ubyte
