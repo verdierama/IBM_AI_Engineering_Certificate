@@ -260,3 +260,10 @@ DL_with_PyTorch/Module6/.fashion/data/FashionMNIST/raw/t10k-images-idx3-ubyte
 DL_with_PyTorch/Module6/.fashion/data/FashionMNIST/raw/t10k-labels-idx1-ubyte
 DL_with_PyTorch/Module6/.fashion/data/FashionMNIST/raw/train-images-idx3-ubyte
 DL_with_PyTorch/Module6/.fashion/data/FashionMNIST/raw/train-labels-idx1-ubyte
+*.pth
+*.pt
+*.zip
+Gen_AI_Models_for_NLP/Module2/.vector_cache/glove.6B.100d.txt
+Gen_AI_Models_for_NLP/Module2/.vector_cache/glove.6B.200d.txt
+Gen_AI_Models_for_NLP/Module2/.vector_cache/glove.6B.300d.txt
+Gen_AI_Models_for_NLP/Module2/.vector_cache/glove.6B.50d.txt
