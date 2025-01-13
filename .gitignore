@@ -283,3 +283,5 @@ Gen_AI_Eng_and_FT_Transformers/Module1/.vector_cache/glove.6B/.DS_Store
 Gen_AI_Eng_and_FT_Transformers/Module1/.vector_cache/glove.6B/glove.6B.100d.txt
 Gen_AI_Eng_and_FT_Transformers/Module1/cached_lm_BertTokenizerFast_126_wikitext_dataset_test.txt
 Gen_AI_Eng_and_FT_Transformers/Module1/cached_lm_BertTokenizerFast_126_wikitext_dataset_train.txt
+*.pkl
+*.6B
