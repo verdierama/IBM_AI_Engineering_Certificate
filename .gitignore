@@ -285,3 +285,4 @@ Gen_AI_Eng_and_FT_Transformers/Module1/cached_lm_BertTokenizerFast_126_wikitext_
 Gen_AI_Eng_and_FT_Transformers/Module1/cached_lm_BertTokenizerFast_126_wikitext_dataset_train.txt
 *.pkl
 *.6B
+Gen_AI_Adv_FT_for_LLMs/Module1/extracted_model/
