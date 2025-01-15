@@ -286,3 +286,8 @@ Gen_AI_Eng_and_FT_Transformers/Module1/cached_lm_BertTokenizerFast_126_wikitext_
 *.pkl
 *.6B
 Gen_AI_Adv_FT_for_LLMs/Module1/extracted_model/
+*.tar
+Gen_AI_Adv_FT_for_LLMs/Module2/dpo/
+Gen_AI_Adv_FT_for_LLMs/Module2/ppov3new_bad1/config.json
+Gen_AI_Adv_FT_for_LLMs/Module2/ppov3new_bad1/
+Gen_AI_Adv_FT_for_LLMs/Module2/ppov3new1/
